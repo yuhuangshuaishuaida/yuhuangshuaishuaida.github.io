@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 个人介绍
 
-You can use the [editor on GitHub](https://github.com/yuhuangshuaishuaida/yuhuangshuaishuaida.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我叫彭新宇，2002年12月27日出生，今年已经快满19岁啦，是一个在湖南工商大学在读大二的小哥哥，家在湖南娄底，
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+学的是城市管理，一个普通的管理型专业，我的政治面貌是群众，3385388998@qq.com，这个是我的邮件。
 
-### Markdown
+### 技能总结
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+英语四级堪堪过线，报了的六级估计也是给国家捐款，其他的，考了篮球二级裁判证，打篮球也还行，不过没什么突出的才能就是了。
 
-```markdown
-Syntax highlighted code block
+但是作为男生，不会打游戏肯定说不过去，各个游戏也玩的挺好的。
 
-# Header 1
-## Header 2
-### Header 3
+# 中学六年，都在长沙市第三十七中学，又名明德雨花实验中学就读
+## 现在主学专业是经济学，就是各种经济学，宏观，微观，公共，还有管理学。
+### 没获得过什么奖项
 
-- Bulleted
-- List
+其实我对自己的期望和要求也不是特别高，就大学好好学习，安心玩耍，然后也尽量去学得一些为人处事的圆滑，增加自己的社交能力，
 
-1. Numbered
-2. List
+同时个人的专业知识的学习也不落下，少挂点科，然后也多参加一些各类各项的比赛，让自己的各项能力都得到好的提升，其他的也没有
 
-**Bold** and _Italic_ and `Code` text
+很多的要求啦。然后对自己的评价，没有什么特别突出的优点，但是也没有什么特别突出的缺点吧，属于是那种在大学里混日子却天天期
 
-[Link](url) and ![Image](src)
-```
+望美好明天的那种，有时候也会为了一些东西去奋斗一段时间，但是最后也没有什么特别大的成功就是了。但是有一点是我觉得我个人而
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuhuangshuaishuaida/yuhuangshuaishuaida.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+言最好的品质，那就是爱老婆，想和老婆一起平平淡淡的走过余生，也不奢求什么其他的，就这一个最大的愿望。
